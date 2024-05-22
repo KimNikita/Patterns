@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns", "Patterns\Patterns.csproj", "{A94E8C3C-DE33-45E3-BAEC-BC80E44376CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iterator", "Iterator\Iterator.csproj", "{05C722F3-56A3-4AF4-9EC9-F51AE4E57C00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backup", "Backup\Backup.csproj", "{385E7A9D-55FD-4165-8C92-FB7469FD722D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A94E8C3C-DE33-45E3-BAEC-BC80E44376CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A94E8C3C-DE33-45E3-BAEC-BC80E44376CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A94E8C3C-DE33-45E3-BAEC-BC80E44376CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A94E8C3C-DE33-45E3-BAEC-BC80E44376CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05C722F3-56A3-4AF4-9EC9-F51AE4E57C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C722F3-56A3-4AF4-9EC9-F51AE4E57C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C722F3-56A3-4AF4-9EC9-F51AE4E57C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C722F3-56A3-4AF4-9EC9-F51AE4E57C00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{385E7A9D-55FD-4165-8C92-FB7469FD722D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385E7A9D-55FD-4165-8C92-FB7469FD722D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385E7A9D-55FD-4165-8C92-FB7469FD722D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385E7A9D-55FD-4165-8C92-FB7469FD722D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D0B5F7E-5997-44B6-85F9-D8508C015D73}
+	EndGlobalSection
+EndGlobal
